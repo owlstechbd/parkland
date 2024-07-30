@@ -47,7 +47,7 @@ $(document).ready(function() {
       nav: true,
       navText: ["<span class='owl-prev'>&#x276E;</span>", "<span class='owl-next'>&#x276F;</span>"],
       autoplay: true,
-      autoplayTimeout: 3000,
+      autoplayTimeout: 6000,
       autoplayHoverPause: true,
       responsive: {
           0: {

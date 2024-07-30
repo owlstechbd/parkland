@@ -1013,14 +1013,21 @@ html{
 }
 .buyer-guides ul li{
 	width: 100%;
+	
+	margin: 5px 0!important;
+}
+.buyer-guides li a{
 	background: #29ABE2;
 	padding: 13px 35px;
 	text-align: center;
 	border-radius: 5px;
-	margin: 5px 0!important;
-}
-.buyer-guides li a{
-	
-	
 	color: #fff;
+	display: block;
+}
+.center-video{
+	width: 100%;
+	text-align: center;
+}
+.center-video h2{
+	margin-bottom: 30px;
 }
